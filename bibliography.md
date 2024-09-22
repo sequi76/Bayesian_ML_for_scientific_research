@@ -12,11 +12,10 @@
 <ul>
 <li><a href="https://arxiv.org/abs/2011.01808" target="_blank">Bayesian Workflow</a>: Practical recipe on how to proceed when practicing Bayesian Analysis
 </ul>
-### Useful links
 
+### Useful links
 <ul>
 <li>MCMC diagnoses within Stan: <a href="https://mc-stan.org/docs/reference-manual/mcmc.html" target="_blank">Diagnosing MCMC: divergences, delta_adaptdapt, etc</a>
-
 </ul>
 
 
