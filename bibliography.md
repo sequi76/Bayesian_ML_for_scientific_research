@@ -10,7 +10,7 @@
 ### MCMC sampling 
 
 <ul>
-<li><a href="Stan: https://mc-stan.org/docs/reference-manual/mcmc.html" target="_blank">Diagnosing MCMC: divergences, delta_adaptdapt, etc</a>
+<li>Stan: <a href="https://mc-stan.org/docs/reference-manual/mcmc.html" target="_blank">Diagnosing MCMC: divergences, delta_adaptdapt, etc</a>
 </ul>
 
 
